@@ -1,0 +1,10 @@
+__pycache__
+.idea
+test/test_file_api.py
+*.log
+test*.py
+pyenv-*
+tmp
+logs
+log
+test
